@@ -1,3 +1,3 @@
 # My Solutions to Coding Test Problems
 
-[MaxPoints.js](Max Points on a Line)
+[Max Points on a Line](MaxPoints.js)
