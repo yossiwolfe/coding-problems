@@ -8,3 +8,4 @@
 
 ### Python
 * [Sock Merchant](SockMerchant.py)
+* [Counting Valleys](CountingValleys.py)
