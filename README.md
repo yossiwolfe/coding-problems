@@ -10,6 +10,7 @@
 * [Sock Merchant](SockMerchant.py)
 * [Counting Valleys](CountingValleys.py)
 * [Jumping on the Clouds](JumpingOnTheClouds.py)
+* [Array: Left Rotation](ArrayLeftRotation.py)
 
 ### PHP
 * [Repeated String](RepeatedString.php)
